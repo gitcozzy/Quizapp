@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz de Istorie</string>
+    <string name="title">Quiz de Istorie</string>
+    <string name="username">Introduceti numele</string>
+    <string name="question_1">1. Cine a fost zeul Infernului in mitologia greaca?</string>
+    <string name="question_2">2. In ce an a fost ucis Iulius Cezar?</string>
+    <string name="question_3">3. Ce boala a omorat o treime din populatia Europei in secolul 14?</string>
+    <string name="question_4">4. Care din urmatoarele tari au fost cucerite de catre Napoleon?</string>
+    <string name="question_5">5. In ce an s-a incheiat Primul Razboi Mondial?</string>
+    <string name="question_6">6. In ce an a inceput al Doilea Razboi Mondial?</string>
+    <string name="answer_21">10 d.Chr</string>
+    <string name="answer_22">36 i.Chr</string>
+    <string name="answer_23">44 i.Chr</string>
+    <string name="answer_24">100 i.Chr</string>
+    <string name="answer_31">Moartea Alba</string>
+    <string name="answer_32">Ciuma</string>
+    <string name="answer_33">Variola</string>
+    <string name="answer_34">Rabia</string>
+    <string name="answer_41">Belgia</string>
+    <string name="answer_42">Egipt</string>
+    <string name="answer_43">Anglia</string>
+    <string name="answer_44">Rusia</string>
+    <string name="submit_answer">Trimite Raspunsurile</string>
+    <string name="you_got">" , ai obtinut "</string>
+    <string name="points">" din 6 puncte!</string>
+</resources>
