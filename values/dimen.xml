@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Dimensions for texts
+    <dimen name="large_text">40sp</dimen>
+    <dimen name="medium_text">32sp</dimen>
+    <dimen name="small_text">16sp</dimen>
+
+    //Dimensions for margins
+    <dimen name="large_margin">32dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+
+</resources>

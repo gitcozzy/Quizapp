@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+    <string name="title">History Quiz</string>
+    <string name="username">Please enter your name</string>
+
+    // Questions
+    <string name="question_1">1. Who was the god of the Underworld in the Greek mythology?</string>
+    <string name="question_2">2. In what year was Julius Caesar killed?</string>
+    <string name="question_3">3. Which disease killed a third of Europe\'s population in the 14th century?</string>
+    <string name="question_4">4. Which of the following countries did Napoleon conquer?</string>
+    <string name="question_5">5. When did World War I end?</string>
+    <string name="question_6">6. When did World War 2 start?</string>
+
+    //Answers
+    <string name="answer_11" translatable="false">Hades</string>
+    <string name="answer_12" translatable="false">Thor</string>
+    <string name="answer_13" translatable="false">Loki</string>
+    <string name="answer_14" translatable="false">Zeus</string>
+
+    <string name="answer_21">10 AC</string>
+    <string name="answer_22">36 BC</string>
+    <string name="answer_23">44 BC</string>
+    <string name="answer_24">100 BC</string>
+
+    <string name="answer_31">The White Death</string>
+    <string name="answer_32">The Black Plague</string>
+    <string name="answer_33">Smallpox</string>
+    <string name="answer_34">Rabies</string>
+
+    <string name="answer_41">Belgium</string>
+    <string name="answer_42">Egypt</string>
+    <string name="answer_43">England</string>
+    <string name="answer_44">Russia</string>
+
+    <string name="answer_51" translatable="false">1909</string>
+    <string name="answer_52" translatable="false">1911</string>
+    <string name="answer_53" translatable="false">1918</string>
+    <string name="answer_54" translatable="false">1914</string>
+
+    <string name="answer_61" translatable="false">1939</string>
+    <string name="answer_62" translatable="false">1944</string>
+    <string name="answer_63" translatable="false">1941</string>
+    <string name="answer_64" translatable="false">1945</string>
+
+    <string name="submit_answer">Submit Answer</string>
+    <string name="you_got">" ,you have scored "</string>
+    <string name="points">" out of 6 points!</string>
+</resources>
